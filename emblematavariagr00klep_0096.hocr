@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./emblematavariagr00klep_0096.png"; bbox 0 0 2541 1774; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1363 522 1543 648">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1363 522 1543 648">
+     <span class='ocr_line' id='line_1_1' title="bbox 1363 522 1543 648; baseline 0 1126"><span class='ocrx_word' id='word_1_1' title='bbox 1363 522 1543 648; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 625 499 1879 767">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 625 499 1879 767">
+     <span class='ocr_line' id='line_1_2' title="bbox 625 499 1665 767; baseline -0.031 -146.901"><span class='ocrx_word' id='word_1_2' title='bbox 625 499 960 767; x_wconf 39' lang='grc' dir='ltr'>ὃ(</span> <span class='ocrx_word' id='word_1_3' title='bbox 1161 562 1454 691; x_wconf 53' lang='lat'>85</span> <span class='ocrx_word' id='word_1_4' title='bbox 1664 585 1665 588; x_wconf 74' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 882 625 1879 742; baseline -0.022 -5.482"><span class='ocrx_word' id='word_1_5' title='bbox 882 647 1384 742; x_wconf 47' lang='lat' dir='ltr'>mmnnfflmm</span> <span class='ocrx_word' id='word_1_6' title='bbox 1373 625 1514 727; x_wconf 58' lang='grc' dir='ltr'>θέε,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1559 634 1879 723; x_wconf 53' lang='lat' dir='ltr'>ursscssszzffis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 625 652 1903 906">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 625 652 2023 906">
+     <span class='ocr_line' id='line_1_4' title="bbox 625 652 1903 906; baseline -0.041 -43.89"><span class='ocrx_word' id='word_1_8' title='bbox 625 652 1693 906; x_wconf 39' lang='grc' dir='ltr'>Ἷῑκῐβῖΰαβίῑιιβίὲώςιῑιηῇτ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1798 776 1903 806; x_wconf 52' lang='lat' dir='ltr'><em>f</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
